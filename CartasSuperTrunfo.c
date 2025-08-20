@@ -19,7 +19,7 @@
     printf("Digite o Código da Cidade: \n");
     scanf("%s", &código_da_carta);
     
-    printf("Digite o Nme da Cidade: \n");
+    printf("Digite o Nome da Cidade: \n");
     scanf("%s", &nome_da_cidade);
 
     printf("Digite a População: \n");
@@ -57,7 +57,7 @@
     printf("Digite o Código da Cidade: \n");
     scanf("%s", &código_da_carta);
     
-    printf("Digite o Nme da Cidade: \n");
+    printf("Digite o Nome da Cidade: \n");
     scanf("%s", &nome_da_cidade);
 
     printf("Digite a População: \n");
